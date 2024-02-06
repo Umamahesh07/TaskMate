@@ -12,10 +12,6 @@ todoList.addEventListener('click', removeTodo);
 filterSelect.addEventListener('change', filterTodos);
 sortBtn.addEventListener('click', sortTodos);
 
-
-
-
-
 //Functions
 
 function addTodo(event) {
